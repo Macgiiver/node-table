@@ -4,8 +4,9 @@ Este es mi primer programa en Node
 Options:
       --help     Show help                                             [boolean]
       --version  Show version number                                   [boolean]
-  -b, --base     Es la base de la tabla de multiplicar       [number] [required]
-  -l, --listar   Muestra la tabla en consola          [boolean] [default: false]
-  -h, --hasta    Este es el numero hasta donde quieres el numero
+  -b, --base     The base number for the multiplication table [number] [required]
+  -l, --list     Display the table in the console         [boolean] [default: false]
+  -h, --until    The number up to which you want the table
                                                        [number] [default: false]
+
 ```
